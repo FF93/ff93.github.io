@@ -1,0 +1,8 @@
+<!-- Projects Awarded Section -->
+<div class="projects-awarded">
+  {% for page in site.pages %}
+    {% if page.path == "_pages/projects_awarded.md" %}
+      {{ page.content | markdownify }}
+    {% endif %}
+  {% endfor %}
+</div>

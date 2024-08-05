@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+projects_awarded: true # includes list of projects
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ Ciao! I'm a postdoctoral researcher at [IDSIA](https://www.idsia.usi-supsi.ch/), mentored by [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/). Prior to this, I completed a PhD in the same lab. Before my PhD, I earned bachelor's and master's degrees in [Mathematical Engineering](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/mathematical-engineering-1) at Politecnico di Milano.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In the past two years, I have also worked as a visiting researcher at [KAUST](https://www.kaust.edu.sa/en/), where I developed and authored projects on General AI, AI for Chemistry, Trustworthy Large Language Models, Car Racing Optimization, and [Coral Restoration](https://www.kaust.edu.sa/html/reefscape/). Some of these projects, in collaboration with industrial partners, have been awarded several million USD.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie at the intersection of General AI, Reinforcement Learning, and AI for Science. I am particularly interested in developing Artificial Scientists to automate scientific research using artificial curiosity and metalearning techniques. Part of my work involves language modeling and robotics. For discussions and collaborations, please reach out at  francesco[DOT]faccio[AT]KAUST[DOT]edu[DOT]sa.
+ 

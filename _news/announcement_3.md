@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: Feb 2024
 inline: true
 related_posts: false
+enabled: false
+priority: 8
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I gave a presentation to McLaren Racing at KAUST on how to use Reinforcement Learning for car optimization.
