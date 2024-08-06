@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 In the past two years, I have also worked as a visiting researcher at [KAUST](https://www.kaust.edu.sa/en/), where I developed and authored projects on General AI, AI for Chemistry, Trustworthy Large Language Models, Car Racing Optimization, and [Coral Restoration](https://www.kaust.edu.sa/html/reefscape/). Some of these projects, in collaboration with industrial partners, have been awarded several million USD.
 
 My research interests lie at the intersection of General AI, Reinforcement Learning, and AI for Science. I am particularly interested in developing Artificial Scientists to automate scientific research using artificial curiosity and metalearning techniques. Part of my work involves language modeling and robotics. For discussions and collaborations, please reach out at  francesco[DOT]faccio[AT]KAUST[DOT]edu[DOT]sa.
- 
+ <div style="height: 10px;"></div> <!-- Adjust the height as needed -->

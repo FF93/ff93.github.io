@@ -1,12 +1,7 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and site.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw;"
-      {% endif %}
-    >
+    <div class="table-responsive">
       <style>
         .date-cell {
           width: 15%; /* Reduced from 20% to 15% */

@@ -30,3 +30,4 @@ title: Projects Awarded
 - _Status:_ Awarded 220 thousand GPU hours on the [Swiss National Supercomputer](https://www.cscs.ch/). Estimated value \$500k.
 
 
+ <div style="height: 20px;"></div> <!-- Adjust the height as needed -->
