@@ -6,4 +6,4 @@ related_posts: false
 priority: 1
 ---
 
-Received a grant for a multi-year project focused on using Reinforcement Learning for Chemical Materials discovery, in partnership with industry at KAUST. This project was co-authored with Jürgen Schmidhuber. `We are hiring 3 Postdocs for this project!`
+Received a grant for a multi-year project focused on using Reinforcement Learning for Chemical Materials discovery, in partnership with industry at KAUST. This project was co-authored with Jürgen Schmidhuber. <a href="/postdoctoral-positions-rl-chemistry/">We are hiring 3 Postdocs for this project!</a>
