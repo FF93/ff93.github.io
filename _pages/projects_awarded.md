@@ -15,10 +15,6 @@ title: Projects Awarded
 - _Contribution:_ Designed and wrote a proposal on General AI research for internal funds.
 - _Status:_ Awarded an undisclosed amount over 5 years duration.
 
-**AI-Driven Car Optimization (2024-)**
-- _Collaborators:_ KAUST, Formula 1 Team  
-- _Contribution:_ Designed, wrote, and led a project on Reinforcement Learning for Car Optimization with a Formula 1 team. 
-
 **Computer Vision for the KAUST Coral Restoration Initiative (2024-)**
 - _Collaborators:_ KAUST, [KCRI](https://www.kaust.edu.sa/html/reefscape/) 
 - _Contribution:_ Major contribution in initiating the project proposal, developing its first draft, and involving the sponsoring partner.
